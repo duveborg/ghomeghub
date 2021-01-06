@@ -5,7 +5,7 @@
   "author": "Martin Duveborg",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "google-home-push": "^1.1.3"
   }
